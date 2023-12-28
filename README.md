@@ -99,7 +99,7 @@ CUDA_VISIBLE_DEVICES=0 python infer.py \
 ## Result
 The following image shows the real CT (left) as well as a reconstructed CT (right) of a typical patient with a pneumothorax.
 
-![demo-result](https://github.com/wangyunpengbio/X-Recon/raw/main/imgs/demo-result.gif)
+![demo-result](https://github.com/wangyunpengbio/X-Recon/raw/main/imgs/demo-result-high.gif)
 
 ## TODO
 The training code will be uploaded after the article is accepted.
